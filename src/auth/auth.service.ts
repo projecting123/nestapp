@@ -76,6 +76,4 @@ export class AuthService {
       return resObj;
     }
   }
-
-  updateMe() {}
 }
